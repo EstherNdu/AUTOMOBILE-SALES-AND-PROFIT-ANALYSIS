@@ -1,1 +1,3 @@
 # AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS
+
+![DataKliq Dashboard](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/ca63f8b1-9372-4151-9bb2-eca396e3ac3c)
