@@ -24,3 +24,39 @@ Power Query. The project featured sales analysis from 2003 - 2005.
 # Tool Used
 
 Microsoft Excel
+
+# Processes
+
+* ETL processes was done using Power Query
+* Data Modeling was done using Power Pivot
+* Some DAX measures were written
+* Created charts using Pivot Tables
+* Built a wireframe for my dashboard
+* Created and interactive dashboard.
+
+# Features of the Dashboard
+* Key Performance Indicators (KPI)
+* Slicers
+* Charts
+# Key Insights
+
+![KPIs](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/54ab21bf-6ba5-4940-ade5-ea6f2cceb372)
+
+![MOM % change](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/8778fcfc-1303-4a2c-a70d-032f695fd509)
+
+![Total Sales   Sales YTD](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/edcb0646-f02c-4369-aca1-e9b0cfc334cc)
+
+![Top 5 customers](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/652600c7-3354-4509-a1a9-57e2161a50b0)
+
+![Top 5 Countries](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/20e0c997-a377-4e82-ba23-64922d13b338)
+
+![Status of Qty ordered](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/29f5018d-71b2-49fe-a6a6-40d457fd4b67)
+
+
+
+
+
+
+
+
+
