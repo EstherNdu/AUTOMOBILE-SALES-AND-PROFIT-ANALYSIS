@@ -34,13 +34,21 @@ Microsoft Excel
 * Built a wireframe for my dashboard
 * Created and interactive dashboard.
 
+# Data Modeling
+
+![Screenshot (81)](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/3952e168-2ab3-4750-8ba7-f7d00a9ee9b3)
+
+
 # Features of the Dashboard
 * Key Performance Indicators (KPI)
 * Slicers
 * Charts
+  
 # Key Insights
 
+# Key Metrics from the analysis
 ![KPIs 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/14a8cec7-45db-4606-91d0-cf8959e15614)
+
 
 ![MOM % change 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/61e9bd9f-6d7c-4c0b-8509-cbcbc10a44d6)
 
