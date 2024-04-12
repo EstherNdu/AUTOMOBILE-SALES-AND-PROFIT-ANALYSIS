@@ -40,17 +40,29 @@ Microsoft Excel
 * Charts
 # Key Insights
 
-![KPIs](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/54ab21bf-6ba5-4940-ade5-ea6f2cceb372)
+![KPIs 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/14a8cec7-45db-4606-91d0-cf8959e15614)
 
-![MOM % change](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/8778fcfc-1303-4a2c-a70d-032f695fd509)
+![MOM % change 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/61e9bd9f-6d7c-4c0b-8509-cbcbc10a44d6)
 
-![Total Sales   Sales YTD](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/edcb0646-f02c-4369-aca1-e9b0cfc334cc)
+![Total Sales   Sales YTD 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/33709020-5c08-474b-a1df-14d310bae23f)
 
-![Top 5 customers](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/652600c7-3354-4509-a1a9-57e2161a50b0)
+![Top 5 countries 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/67734fd6-2ebb-4afa-a1f8-3d8cafd95225)
 
-![Top 5 Countries](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/20e0c997-a377-4e82-ba23-64922d13b338)
+![Top 5 customers 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/f355d8df-4b43-43b3-a5fb-727625e28e7b)
 
-![Status of Qty ordered](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/29f5018d-71b2-49fe-a6a6-40d457fd4b67)
+![Status of Qty Ordered 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/5f6b708a-59d8-41f7-90a0-c342bba0c034)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
