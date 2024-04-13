@@ -73,6 +73,8 @@ Microsoft Excel
 ![Status of Qty Ordered 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/5f6b708a-59d8-41f7-90a0-c342bba0c034)
 
 
+# Recommendations
+
 
 
 
