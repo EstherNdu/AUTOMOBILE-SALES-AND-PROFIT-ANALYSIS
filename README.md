@@ -49,15 +49,22 @@ Microsoft Excel
 # Key Metrics from the analysis
 ![KPIs 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/14a8cec7-45db-4606-91d0-cf8959e15614)
 
-
+* The automobile comapny had their highest profit generated in **October** with a profit of **106.23%**. However,in **December** they ran
+  at a loss of **-71.87%**
 ![MOM % change 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/61e9bd9f-6d7c-4c0b-8509-cbcbc10a44d6)
 
+* **Classic cars** had generated the highest Total Sales of **$4M** from 2013 and also generated the highest Year to Date Sales of $673K for 2015,followed by **Vintage Cars** with Total Sales of **$2M** and Sales YTD of **$341K** and the least Total Sales from **Trains** with Total Sales of **$226K** and Sales YTD of **$37K**.
+  
 ![Total Sales   Sales YTD 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/33709020-5c08-474b-a1df-14d310bae23f)
 
+* Highest Sales of $4M was generated from USA followd by Spain which had sales of $1.2M and the least Sales from UK with sales of $479K.
 ![Top 5 countries 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/67734fd6-2ebb-4afa-a1f8-3d8cafd95225)
+
+* Euro Shipping Channel was the top customer and the purchased vehicles worth $912K and La Rochelle Gift which was the least customer purchased vehicles worth $180k.
 
 ![Top 5 customers 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/f355d8df-4b43-43b3-a5fb-727625e28e7b)
 
+* A total number of 91,403 vehicles were shipped, 2,038 cancelled and 597 disputed.
 ![Status of Qty Ordered 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/5f6b708a-59d8-41f7-90a0-c342bba0c034)
 
 
