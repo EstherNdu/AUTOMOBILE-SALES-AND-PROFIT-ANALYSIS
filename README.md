@@ -64,7 +64,7 @@ Microsoft Excel
   
 ![Top 5 countries 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/67734fd6-2ebb-4afa-a1f8-3d8cafd95225)
 
-* Euro Shipping Channel was the top customer and the purchased vehicles worth $912K and La Rochelle Gift which was the least customer purchased vehicles worth $180k.
+* Euro Shipping Channel was the top customer and they purchased vehicles worth $912K and La Rochelle Gift which was the least customer purchased vehicles worth $180k.
 
 ![Top 5 customers 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/f355d8df-4b43-43b3-a5fb-727625e28e7b)
 
@@ -74,7 +74,13 @@ Microsoft Excel
 
 
 # Recommendations
+* I would recommend that the strategies that were in place in October where highest profit was recorded can be implemented in other months to reduce percentage loss.
+  
+* Customers who generated highest revenue should be rewarded either by giving discounts on next purchase or giving them gift vouchers to enhance customer
+satisfaction, retention and loyalty.
 
+*Lastly, an indepth ananlysis should be carried out to find out why some countries recorded poor sales and measures put in place to ensure an increase
+in sales from those countries.
 
 
 
