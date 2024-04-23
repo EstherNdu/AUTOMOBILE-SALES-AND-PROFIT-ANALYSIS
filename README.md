@@ -79,7 +79,7 @@ Microsoft Excel
 * Customers who generated highest revenue should be rewarded either by giving discounts on next purchase or giving them gift vouchers to enhance customer
 satisfaction, retention and loyalty.
 
-*Lastly, an indepth ananlysis should be carried out to find out why some countries recorded poor sales and measures put in place to ensure an increase
+* Lastly, an indepth ananlysis should be carried out to find out why some countries recorded poor sales and measures put in place to ensure an increase
 in sales from those countries.
 
 
