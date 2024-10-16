@@ -1,6 +1,5 @@
 # AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS
 
-![Excel dataKliq Project corr](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/5afb7dad-1a67-4c65-a860-620ffdebed94)
 
 # Brief Introduction
 
@@ -72,6 +71,7 @@ Microsoft Excel
   
 ![Status of Qty Ordered 2](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/5f6b708a-59d8-41f7-90a0-c342bba0c034)
 
+![Excel dataKliq Project corr](https://github.com/EstherNdu/AUTOMOBILE-SALES-AND-PROFIT-ANALYSIS/assets/128849587/5afb7dad-1a67-4c65-a860-620ffdebed94)
 
 # Recommendations
 * I would recommend that the strategies that were in place in October where highest profit was recorded can be implemented in other months to reduce percentage loss.
